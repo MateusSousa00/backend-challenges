@@ -1,7 +1,7 @@
 const input = {
   purchases: [
     {
-      data: "2022-01-01",
+      date: "2022-01-01",
       products: [
         {
           cod: "a",
@@ -21,7 +21,7 @@ const input = {
       ],
     },
     {
-      data: "2022-01-02",
+      date: "2022-01-02",
       products: [
         {
           cod: "a",
